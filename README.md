@@ -1,19 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Rufino+de+Souza;I'm+22+years+old;I+am+from+Jacutinga,+MG;I+study+Computer+Engineering+at+Unipinhal;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Mateus+Rufino+de+Souza;I'm+22+years+old;I'm+from+Jacutinga,+MG;I+study+Computer+Engineering+at+Unipinhal;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MateusRufino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Rufino de Souza github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=221mateus&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Rufino de Souza github stats" />
  </div>
  <div align="center">
- <img align="center" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRufino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+ <img align="center" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrufino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MateusRufino&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=221mateus&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -45,7 +45,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MateusRufino}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{221mateus}/count.svg" /></p> 
 <br></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
